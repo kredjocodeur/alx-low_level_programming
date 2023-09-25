@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
- * Description: The program's description
+ * main - Entry point
  *
- * main: Entry point
+ * Description: 'the program's description'
+ * @parameter: describe the parameter
  *
- * Return: The function return always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
