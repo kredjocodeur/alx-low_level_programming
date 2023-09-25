@@ -6,7 +6,7 @@
 /**
  * main: Entry point
  *
- * Description: print the value of n status(zero, positive, negative)
+ * Description: print the value of n status; zero, positive or negative
  *
  * Return: The function return always 0
 */
