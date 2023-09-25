@@ -6,7 +6,7 @@
 /**
  * main: Entry point
  *
- * Description: print whether the number stored in the variable n is positive or negative.
+ * Description: print if the variable n is positive or negative
  *
  * Return: The function return always 0
 */
