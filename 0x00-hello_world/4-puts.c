@@ -1,5 +1,7 @@
 #include <stdio.h>
 /**
+ * Description: The program's description
+ *
  * main: Entry point
  *
  * Return: The function return always 0
