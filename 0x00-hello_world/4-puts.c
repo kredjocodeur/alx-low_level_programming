@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main : The enter point
+ * main: The enter point
  *
- * The function return always 0
+ * Return: The function return always 0
  */
 int main(void)
 {
