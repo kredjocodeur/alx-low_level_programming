@@ -6,7 +6,7 @@
 /**
  * main: Entry point
  *
- * Description: print the value of n satus; zero, positive or negative
+ * Description: print whether the number stored in the variable n is positive or negative.
  *
  * Return: The function return always 0
 */
