@@ -4,9 +4,7 @@
 
 
 /**
- * main: Entry point
- *
- * Description: print if the variable n is positive or negative
+ * main: print if the variable n is positive or negative
  *
  * Return: The function return always 0
 */
